@@ -1,0 +1,11 @@
+aplicación web de red social llamada "AmigosConecta". Tiene dos páginas principales: "index.html" y "registro.html".
+
+La página "index.html" es la página de inicio de sesión, donde los usuarios pueden ingresar sus credenciales (correo electrónico y contraseña) para acceder a su cuenta. Si un usuario aún no tiene una cuenta, puede hacer clic en el enlace "Regístrate" para ir a la página de registro.
+
+La página "registro.html" es donde los usuarios pueden crear una nueva cuenta en "AmigosConecta". La página contiene un formulario que los usuarios deben completar con información como su nombre completo, nombre de usuario, correo electrónico, fecha de nacimiento, género y contraseña. Los usuarios también deben confirmar su contraseña antes de registrarse.
+
+El archivo "script.js" contiene el código JavaScript necesario para manejar el envío de formularios en ambas páginas. Cuando un usuario envía el formulario de inicio de sesión en "index.html", recibe una alerta de bienvenida. Cuando un usuario envía el formulario de registro en "registro.html", recibe una alerta de confirmación de registro.
+
+El archivo "styles.css" contiene el código CSS necesario para dar formato a las páginas web. Incluye estilos para elementos como encabezados, formularios, botones y enlaces.
+
+En resumen, esta página web es una aplicación simple de red social que permite a los usuarios iniciar sesión o registrarse en una cuenta. Utiliza HTML, CSS y JavaScript para implementar su funcionalidad y diseño.
